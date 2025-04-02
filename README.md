@@ -1,4 +1,4 @@
-spring-course-recap-measurement-task
+spring-course-recap-sensor-client-task
 ==================
 
 Task consists of 2 pars:
